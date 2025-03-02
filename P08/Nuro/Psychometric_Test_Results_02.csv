@@ -1,0 +1,89 @@
+data:text/csv;charset=utf-8,Test,Question,Answer,Time(s),Question Start Time,Question Answer Time
+HADS,1. I feel tense or 'wound up':,From time to time; occasionally,1,7.464,2024-06-13T13:23:43.911Z,2024-06-13T13:23:51.376Z
+HADS,2. I still enjoy the things I used to enjoy:,Definitely as much,0,8.918,2024-06-13T13:23:51.376Z,2024-06-13T13:24:00.294Z
+HADS,3. I get a sort of frightened feeling as if something awful is about to happen:,A little; but it doesn't worry me,1,7.296,2024-06-13T13:24:00.294Z,2024-06-13T13:24:07.590Z
+HADS,4. I can laugh and see the funny side of things:,As much as I always could,0,4.088,2024-06-13T13:24:07.590Z,2024-06-13T13:24:11.678Z
+HADS,5. Worrying thoughts go through my mind:,From time to time; but not too often,1,6.024,2024-06-13T13:24:11.678Z,2024-06-13T13:24:17.702Z
+HADS,6. I feel cheerful:,Sometimes,1,14.088,2024-06-13T13:24:17.702Z,2024-06-13T13:24:31.790Z
+HADS,7. I can sit at ease and feel relaxed:,Definitely,0,8.376,2024-06-13T13:24:31.790Z,2024-06-13T13:24:40.166Z
+HADS,8. I feel as if I am slowed down:,Sometimes,1,5.304,2024-06-13T13:24:40.166Z,2024-06-13T13:24:45.470Z
+HADS,9. I get a sort of frightened feeling like 'butterflies' in the stomach:,Not at all,0,5.704,2024-06-13T13:24:45.470Z,2024-06-13T13:24:51.174Z
+HADS,10. I have lost interest in my appearance:,I take just as much care as ever,0,7.8,2024-06-13T13:24:51.174Z,2024-06-13T13:24:58.975Z
+HADS,11. I feel restless as I have to be on the move:,Not at all,0,12.743,2024-06-13T13:24:58.975Z,2024-06-13T13:25:11.718Z
+HADS,12. I look forward with enjoyment to things:,As much as I ever did,0,4.816,2024-06-13T13:25:11.718Z,2024-06-13T13:25:16.534Z
+HADS,13. I get sudden feelings of panic:,Not very often,1,12.6,2024-06-13T13:25:16.534Z,2024-06-13T13:25:29.134Z
+HADS,14. I can enjoy a good book or radio or TV program:,Sometimes,1,5.673,2024-06-13T13:25:29.134Z,2024-06-13T13:25:34.807Z
+STAI-S,1. I feel calm.,Very much,1,13.135,2024-06-13T13:25:34.807Z,2024-06-13T13:25:47.942Z
+STAI-S,2. I feel secure.,Somewhat,3,4.064,2024-06-13T13:25:47.942Z,2024-06-13T13:25:52.006Z
+STAI-S,3. I am tense.,Not at all,1,4.672,2024-06-13T13:25:52.006Z,2024-06-13T13:25:56.678Z
+STAI-S,4. I feel regretful.,Not at all,1,3.136,2024-06-13T13:25:56.678Z,2024-06-13T13:25:59.814Z
+STAI-S,5. I feel at ease.,Moderately,2,5.696,2024-06-13T13:25:59.814Z,2024-06-13T13:26:05.510Z
+STAI-S,6. I feel upset.,Not at all,1,2.704,2024-06-13T13:26:05.510Z,2024-06-13T13:26:08.214Z
+STAI-S,7. I am currently worried about possible misfortunes.,Somewhat,2,6.896,2024-06-13T13:26:08.214Z,2024-06-13T13:26:15.110Z
+STAI-S,8. I feel rested.,Moderately,2,6.968,2024-06-13T13:26:15.110Z,2024-06-13T13:26:22.078Z
+STAI-S,9. I feel anxious.,Not at all,1,6.584,2024-06-13T13:26:22.078Z,2024-06-13T13:26:28.662Z
+STAI-S,10. I feel comfortable.,Moderately,2,5.424,2024-06-13T13:26:28.662Z,2024-06-13T13:26:34.086Z
+STAI-S,11. I feel self-confident.,Not at all,4,5.889,2024-06-13T13:26:34.086Z,2024-06-13T13:26:39.975Z
+STAI-S,12. I feel nervous.,Somewhat,2,5.152,2024-06-13T13:26:39.975Z,2024-06-13T13:26:45.127Z
+STAI-S,13. I am jittery.,Somewhat,2,8.08,2024-06-13T13:26:45.127Z,2024-06-13T13:26:53.207Z
+STAI-S,14. I feel high-strung.,Somewhat,2,5.736,2024-06-13T13:26:53.207Z,2024-06-13T13:26:58.943Z
+STAI-S,15. I am relaxed.,Very much,1,5.928,2024-06-13T13:26:58.943Z,2024-06-13T13:27:04.871Z
+STAI-S,16. I feel content.,Very much,1,2.704,2024-06-13T13:27:04.871Z,2024-06-13T13:27:07.575Z
+STAI-S,17. I am worried.,Not at all,1,3.232,2024-06-13T13:27:07.575Z,2024-06-13T13:27:10.807Z
+STAI-S,18. I feel overexcited and rattled.,Somewhat,2,13.392,2024-06-13T13:27:10.807Z,2024-06-13T13:27:24.199Z
+STAI-S,19. I feel joyful.,Very much,1,5.752,2024-06-13T13:27:24.199Z,2024-06-13T13:27:29.951Z
+STAI-S,20. I feel fine.,Very much,1,1.472,2024-06-13T13:27:29.951Z,2024-06-13T13:27:31.423Z
+STAI-T,1. I feel fine.,Almost Always,1,3.553,2024-06-13T13:27:31.423Z,2024-06-13T13:27:34.976Z
+STAI-T,2. I tire quickly.,Sometimes,2,3.183,2024-06-13T13:27:34.976Z,2024-06-13T13:27:38.159Z
+STAI-T,3. I feel like crying.,Almost Never,4,3.144,2024-06-13T13:27:38.159Z,2024-06-13T13:27:41.303Z
+STAI-T,4. I wish I could be as happy as others seem to be.,Sometimes,2,7.391,2024-06-13T13:27:41.303Z,2024-06-13T13:27:48.695Z
+STAI-T,5. I am losing opportunities because I cannot make decisions fast.,Often,3,12.783,2024-06-13T13:27:48.695Z,2024-06-13T13:28:01.478Z
+STAI-T,6. I feel rested.,Often,2,7.064,2024-06-13T13:28:01.478Z,2024-06-13T13:28:08.542Z
+STAI-T,7. I am calm.,Almost Always,1,6.272,2024-06-13T13:28:08.542Z,2024-06-13T13:28:14.814Z
+STAI-T,8. I feel that difficulties are piling up in such a way that I cannot overcome them.,Often,3,7.12,2024-06-13T13:28:14.814Z,2024-06-13T13:28:21.934Z
+STAI-T,9. I worry too much about things that do not really matter.,Almost Never,1,4.84,2024-06-13T13:28:21.934Z,2024-06-13T13:28:26.774Z
+STAI-T,10. I am happy.,Almost Always,1,1.968,2024-06-13T13:28:26.774Z,2024-06-13T13:28:28.742Z
+STAI-T,11. I am inclined to take things hard.,Almost Never,1,5.136,2024-06-13T13:28:28.742Z,2024-06-13T13:28:33.878Z
+STAI-T,12. I lack self-confidence.,Almost Always,4,4.904,2024-06-13T13:28:33.878Z,2024-06-13T13:28:38.782Z
+STAI-T,13. I feel secure.,Sometimes,3,3.632,2024-06-13T13:28:38.782Z,2024-06-13T13:28:42.414Z
+STAI-T,14. I try to avoid facing a crisis or difficulty.,Sometimes,3,6.616,2024-06-13T13:28:42.414Z,2024-06-13T13:28:49.030Z
+STAI-T,15. I feel blue.,Sometimes,2,2.856,2024-06-13T13:28:49.030Z,2024-06-13T13:28:51.886Z
+STAI-T,16. I am content.,Almost Always,1,3.416,2024-06-13T13:28:51.886Z,2024-06-13T13:28:55.302Z
+STAI-T,17. Some unimportant thoughts run through my mind and bother me.,Almost Never,1,5.704,2024-06-13T13:28:55.302Z,2024-06-13T13:29:01.006Z
+STAI-T,18. I take disappointments so keenly that I cannot get them out of my mind.,Sometimes,2,21.801,2024-06-13T13:29:01.006Z,2024-06-13T13:29:22.807Z
+STAI-T,19. I am a steady person.,Often,2,10.944,2024-06-13T13:29:22.807Z,2024-06-13T13:29:33.751Z
+STAI-T,20. I become tense and upset when I think about my current concerns.,Often,3,7.656,2024-06-13T13:29:33.751Z,2024-06-13T13:29:41.407Z
+BFI,1. I see myself as someone who is reserved,Strongly agree,5,4.215,2024-06-13T13:29:41.407Z,2024-06-13T13:29:45.622Z
+BFI,2. I see myself as someone who is generally trusting,Neutral,3,10.92,2024-06-13T13:29:45.622Z,2024-06-13T13:29:56.542Z
+BFI,3. I see myself as someone who does a thorough job,Agree,2,6.184,2024-06-13T13:29:56.542Z,2024-06-13T13:30:02.726Z
+BFI,4. I see myself as someone who is relaxed; handles stress well,Agree,4,8.784,2024-06-13T13:30:02.726Z,2024-06-13T13:30:11.510Z
+BFI,5. I see myself as someone who has an active imagination,Agree,2,3.417,2024-06-13T13:30:11.510Z,2024-06-13T13:30:14.927Z
+BFI,6. I see myself as someone who is outgoing; sociable,Strongly disagree,5,3.255,2024-06-13T13:30:14.927Z,2024-06-13T13:30:18.182Z
+BFI,7. I see myself as someone who tends to find fault with others,Disagree,2,10.296,2024-06-13T13:30:18.182Z,2024-06-13T13:30:28.478Z
+BFI,8. I see myself as someone who tends to be lazy,Strongly agree,5,6.841,2024-06-13T13:30:28.478Z,2024-06-13T13:30:35.319Z
+BFI,9. I see myself as someone who gets nervous easily,Strongly disagree,5,4.92,2024-06-13T13:30:35.319Z,2024-06-13T13:30:40.239Z
+BFI,10. I see myself as someone who has few artistic interests,Disagree,2,7.247,2024-06-13T13:30:40.239Z,2024-06-13T13:30:47.486Z
+FQ,1. Main phobia you want treated (agoraphobia),3,3,10.367,2024-06-13T13:30:47.487Z,2024-06-13T13:30:57.854Z
+FQ,2. Injections or minor surgery,6 - markedly avoid it,6,8.168,2024-06-13T13:30:57.854Z,2024-06-13T13:31:06.022Z
+FQ,3. Eating or drinking with other people,1,1,14.128,2024-06-13T13:31:06.022Z,2024-06-13T13:31:20.150Z
+FQ,4. Hospitals,4 - definitely avoid it,4,5.512,2024-06-13T13:31:20.150Z,2024-06-13T13:31:25.662Z
+FQ,5. Traveling alone or by bus,0 - would not avoid it,0,3.928,2024-06-13T13:31:25.662Z,2024-06-13T13:31:29.590Z
+FQ,6. Walking alone in busy streets,1,1,5.12,2024-06-13T13:31:29.590Z,2024-06-13T13:31:34.710Z
+FQ,7. Being watched or stared at,2 - slightly avoid it,2,3.752,2024-06-13T13:31:34.710Z,2024-06-13T13:31:38.462Z
+FQ,8. Going into crowded shops,4 - definitely avoid it,4,5.92,2024-06-13T13:31:38.462Z,2024-06-13T13:31:44.382Z
+FQ,9. Talking to people in authority,4 - definitely avoid it,4,6.96,2024-06-13T13:31:44.382Z,2024-06-13T13:31:51.342Z
+FQ,10. Sight of blood,6 - markedly avoid it,6,4.905,2024-06-13T13:31:51.342Z,2024-06-13T13:31:56.247Z
+FQ,11. Being criticized,2 - slightly avoid it,2,6.663,2024-06-13T13:31:56.247Z,2024-06-13T13:32:02.910Z
+FQ,12. Going alone far from home,0 - would not avoid it,0,2.928,2024-06-13T13:32:02.910Z,2024-06-13T13:32:05.838Z
+FQ,13. Thought of injury or illness,5,5,6.2,2024-06-13T13:32:05.838Z,2024-06-13T13:32:12.038Z
+FQ,14. Speaking or acting to an audience,5,5,17.128,2024-06-13T13:32:12.038Z,2024-06-13T13:32:29.166Z
+FQ,15. Large open spaces,0 - would not avoid it,0,9.4,2024-06-13T13:32:29.166Z,2024-06-13T13:32:38.566Z
+FQ,16. Going to the dentist,2 - slightly avoid it,2,6.8,2024-06-13T13:32:38.566Z,2024-06-13T13:32:45.366Z
+FQ,17. Other situations (i don't have anything else to share),0 - would not avoid it,0,3.624,2024-06-13T13:32:45.366Z,2024-06-13T13:32:48.990Z
+FQ,18. How would you rate the present state of your phobic symptoms on the scale below?,2 - slightly disturbing/not really disabling,2,11.464,2024-06-13T13:32:48.990Z,2024-06-13T13:33:00.454Z
+FQ,19. Feeling miserable or depressed,0 - hardly at all,0,8.112,2024-06-13T13:33:00.454Z,2024-06-13T13:33:08.566Z
+FQ,20. Feeling irritable or angry,0 - hardly at all,0,3.369,2024-06-13T13:33:08.566Z,2024-06-13T13:33:11.935Z
+FQ,21. Feeling tense or panicky,1,1,4.807,2024-06-13T13:33:11.935Z,2024-06-13T13:33:16.742Z
+FQ,22. Upsetting thoughts coming into your head,0 - hardly at all,0,3.28,2024-06-13T13:33:16.742Z,2024-06-13T13:33:20.022Z
+FQ,23. Feeling you or your surroundings are strange or unreal,1,1,12.024,2024-06-13T13:33:20.022Z,2024-06-13T13:33:32.046Z
+FQ,24. Other feelings (nothing),0 - hardly at all,0,2.464,2024-06-13T13:33:32.046Z,2024-06-13T13:33:34.510Z
